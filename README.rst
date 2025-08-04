@@ -1,15 +1,37 @@
-Wordle-Python
-=============
+======
+Wordle
+======
 
-A terminal-based clone of the popular Wordle game, built in Python.  
-This version has been customized, republished, and enhanced for educational and portfolio purposes by Rohith Vamsi Thadela.
 
-Overview
---------
+.. image:: https://img.shields.io/pypi/v/python-wordle?color=success
+        :target: https://pypi.python.org/pypi/python-wordle
 
-This project brings the familiar Wordle experience to the command line. It supports multiple game modes, a solver that plays on your behalf, and a helper that provides intelligent word suggestions.
+.. image:: https://readthedocs.org/projects/python-wordle/badge/?version=latest
+        :target: https://python-wordle.readthedocs.io/en/latest/?version=latest
+        :alt: Documentation Status
 
-Whether you're looking to sharpen your logic or explore how algorithms can narrow down a word puzzle, this tool demonstrates how Python can deliver engaging interactive applications through a simple CLI.
+.. image:: https://img.shields.io/pypi/pyversions/python-wordle
+        :target: https://pypi.python.org/pypi/python-wordle
+        :alt: Python Version Support
+
+.. image:: https://img.shields.io/github/issues/hrishikeshrt/python-wordle
+        :target: https://github.com/hrishikeshrt/python-wordle/issues
+        :alt: GitHub Issues
+
+.. image:: https://img.shields.io/github/followers/hrishikeshrt?style=social
+        :target: https://github.com/hrishikeshrt
+        :alt: GitHub Followers
+
+.. image:: https://img.shields.io/twitter/follow/hrishikeshrt?style=social
+        :target: https://twitter.com/hrishikeshrt
+        :alt: Twitter Followers
+
+
+Wordle -- Game, Solver and Helper!
+
+
+* Free software: GNU General Public License v3
+* Documentation: https://python-wordle.readthedocs.io.
 
 Features
 --------
@@ -52,7 +74,14 @@ Let the built-in algorithm solve the word for you using ``--solve``.
 Use ``--helper`` to get guided suggestions for solving third-party Wordles (like on NYT).
 
 Example
--------
+=======
+
+.. image:: screenshot.png
+    :target: https://github.com/hrishikeshrt/python-wordle
+
+
+Helper Session
+--------------
 
 .. code-block:: console
 

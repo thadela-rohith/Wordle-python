@@ -3,7 +3,7 @@
 """
 Evaluate Solver
 
-@author: Hrishikesh Terdalkar
+@author: Rohith Vamsi Thadela
 """
 
 ###############################################################################

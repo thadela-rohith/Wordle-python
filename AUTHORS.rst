@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Hrishikesh Terdalkar <hrishikeshrt@linuxmail.org>
+* Rohith Vamsi Thadela <rohith.thadela@gmail.com>
 
 Contributors
 ------------

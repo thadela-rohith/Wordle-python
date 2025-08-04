@@ -20,8 +20,8 @@ requirements = [
 test_requirements = ["pytest>=3", ]
 
 setup(
-    author="Hrishikesh Terdalkar",
-    author_email='hrishikeshrt@linuxmail.org',
+    author="Rohith Vamsi Thadela",
+    author_email='rohith.thadela@gmail.com',
     python_requires='>=3.6',
     classifiers=[
         'Development Status :: 4 - Beta',

@@ -64,8 +64,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Wordle'
-copyright = "2022, Hrishikesh Terdalkar"
-author = "Hrishikesh Terdalkar"
+copyright = "2025, Rohith Vamsi Thadela"
+author = "Rohith Vamsi THadela"
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
