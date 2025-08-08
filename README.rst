@@ -27,7 +27,6 @@ Wordle -- Game, Solver and Helper!
 
 
 * Free software: GNU General Public License v3
-* Documentation: https://python-wordle.readthedocs.io.
 
 Features
 --------
