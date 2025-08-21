@@ -15,7 +15,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/hrishikeshrt/python-wordle/issues.
+Report bugs at https://github.com/thadela-rohith/python-wordle/issues.
 
 If you are reporting a bug, please include:
 
